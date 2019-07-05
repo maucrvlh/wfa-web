@@ -55,7 +55,7 @@
                     <div class="text-h6">Matriz de memória de custo</div>
                 </q-card-section>
                 <q-card-section>
-                    
+
                 </q-card-section>
             </q-card>
         </div>
@@ -68,7 +68,7 @@
 <script lang="ts">
 import Vue from "vue";
 
-export default Vue.extend({
-    name: "PageIndex"
-});
+export default class Wfa extends Vue {
+    
+}
 </script>
