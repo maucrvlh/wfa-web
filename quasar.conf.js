@@ -37,6 +37,7 @@ module.exports = function (ctx) {
 
       components: [
         'QCard',
+        'QCardActions',
         'QCardSection',
         'QInput',
         'QLayout',
@@ -53,7 +54,8 @@ module.exports = function (ctx) {
         'QItem',
         'QItemSection',
         'QItemLabel',
-        'QScrollArea'
+        'QScrollArea',
+        'QSeparator'
       ],
 
       directives: [
